@@ -11,6 +11,5 @@ Use download_loca2_il.py and download_loca2_il.slurm in conjunction to submit ba
 
 Use Processed File Exploration and Verification.ipynb notebook to verify the processed data and check progress. 
 
-Estimated Time: 9-10 days
 
-Estimated storage required for raw downloads: 3-4 TB
+Estimated storage required for raw downloads: 1 TB
