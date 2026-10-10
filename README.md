@@ -51,7 +51,7 @@ same directory.
 | Deschênes & Greenstone (2011) | Daily mean temperature-bin counts; precipitation totals and categories | Annual |
 | Burke & Emerick (2016) | Degree days using 29°C and alternative 28°C thresholds; precipitation terms using 42 cm and 50 cm thresholds | March–August, summarized annually |
 | Park (2016) | Daily maximum temperature counts for 80–<90°F and ≥90°F | Annual |
-| Behrer et al. (2021) | Daily maximum temperature counts for 80–<85°F, 85–<90°F, and ≥90°F | Annual |
+| Behrer et al. (2021) | Daily maximum temperature counts for different bins and Precipitation | Annual |
 | Carleton et al. (2022) | Annual sums of daily T, T², T³, T⁴, P, and P² | Annual |
 | Hultgren et al. (2025) | GDD between 8°C and 31°C; KDD above 31°C; crop-phase precipitation and squared precipitation | March–August, summarized annually |
 | Manderson & Considine (2025) | Daily mean temperature-bin counts and precipitation | Monthly |
